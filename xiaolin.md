@@ -26,6 +26,7 @@
 
 ## 工作论文
 - On Real-time EGARCH models (with Muyi Li and Chen Tong). Manuscript in preparation.
-
+- 实时 EGARCH 模型的轮廓非线性最小二乘估计. 修改中.
+- 已实现实时 EGARCHX 模型的高斯 MLE 估计与应用. 修改中.
 
 
